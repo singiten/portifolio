@@ -7,7 +7,7 @@ const projects = [
         description: "A full-featured social media platform where users can share posts, like, comment, follow others, and save favorite content with real-time notifications.",
         github: "https://github.com/singiten/flora",
         live: "https://flora-social-media.onrender.com",
-        image: "images/flora.png"
+        image: "images/flora.jpg"
     },
     {
         id: 2,
@@ -16,7 +16,7 @@ const projects = [
         description: "A tourism platform showcasing Ethiopia's 9 regions, Addis Ababa, and Dire Dawa. Features region-based exploration, interactive maps, real-time booking, and cultural insights.",
         github: "https://github.com/singiten/tour-guide",
         live: "#",
-        image: "images/tour.png"
+        image: "images/tour.jpg"
     },
     {
         id: 3,
@@ -25,7 +25,7 @@ const projects = [
         description: "A dual-interface job marketplace connecting job seekers with recruiters. Features intelligent job matching, application tracking, recruiter dashboards, and real-time notifications.",
         github: "https://github.com/singiten/ahadu-jobs",
         live: "https://ahadu-jobs-frontend.onrender.com/",
-        image: "images/ahadu.png"
+        image: "images/ahadu.jpg"
     },
     {
         id: 4,
@@ -34,7 +34,7 @@ const projects = [
         description: "An e-commerce platform celebrating Ethiopian literature. Features book browsing across categories, shopping cart management, secure checkout, and personalized recommendations.",
         github: "https://github.com/singiten/book_storess",
         live: "#",
-        image: "images/book.png"
+        image: "images/book.jpg"
     },
     {
         id: 5,
@@ -43,7 +43,7 @@ const projects = [
         description: "A cultural platform celebrating Ethiopia's unique holidays and calendar system. Features holiday descriptions, daily Sinksar readings, and an intelligent Ethiopian calendar date checker.",
         github: "https://github.com/singiten/holiday",
         live: "#",
-        image: "images/holiday.png"
+        image: "images/holiday.jpg"
     },
     {
         id: 6,
